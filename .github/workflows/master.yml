@@ -9,7 +9,7 @@ on:
 jobs:
   pack_push:
     env:
-      PATH_PROJECT: ./MoneyExtension/MoneyExtension.csproj
+      PATH_PROJECT: src/MoneyExtension/MoneyExtension.csproj
 
     runs-on: ubuntu-latest
 

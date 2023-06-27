@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>MoneyExtension</PackageId>
+    <PackageId>nvabh5d14tjfetud0sjpyxzm2206w2cvMoneyExtension</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Leandro Menezes</Authors>
